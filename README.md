@@ -1,7 +1,7 @@
 # Relacion-de-ejercicios-HTML-y-CSS
-María del Rosario González Ortiz - RosarioGonzalez06
+## María del Rosario González Ortiz - RosarioGonzalez06
 
-Ejercicio 7
+### Ejercicio 7
 Realiza la web que se muestra en la imagen de abajo teniendo en cuenta las siguientes restricciones del css.
 Todos los elementos tendrán la fuente “Courier New, Courier, monospace.
 El primer párrafo deberá de tener un identificador y su color de fondo será gris.
@@ -16,7 +16,7 @@ Los encabezados h3 que están justo antes de un párrafo tendrán un color de fo
 Los encabezados h3 que están justo después de un párrafo tendrán un color de fondo azul.
 Los estilos deberán de definirse en un fichero .css
 
-Ejercicio 8
+### Ejercicio 8
 Realiza la web que se muestra a continuación teniendo en cuenta las siguientes restricciones CSS:
 body:
 Color de fondo: #eeeeee
@@ -65,7 +65,7 @@ cursivas: font-style. Esta propiedad se utiliza tanto para poner como para quita
 negrita: font-weight. Esta propiedad se utiliza tanto para poner como para quitar la negrita.
 subrayado: text-decoration.
 
-Ejercicio 9
+### Ejercicio 9
 Realiza la web que se muestra a continuación teniendo en cuenta las siguientes restricciones CSS:
 body
 Color de fondo: #267352
