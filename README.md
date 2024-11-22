@@ -1,5 +1,6 @@
 # Relacion-de-ejercicios-HTML-y-CSS
 María del Rosario González Ortiz - RosarioGonzalez06
+
 Ejercicio 7
 Realiza la web que se muestra en la imagen de abajo teniendo en cuenta las siguientes restricciones del css.
 Todos los elementos tendrán la fuente “Courier New, Courier, monospace.
