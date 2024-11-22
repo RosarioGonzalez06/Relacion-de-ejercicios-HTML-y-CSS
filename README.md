@@ -110,7 +110,7 @@ color de fondo: #004680
 Color: blanco
 Etiquetas
 Al desactivar la hoja de estilo se puede identificar las siguientes etiquetas:
-una etiqueta de sección <h1> para el título.
+una etiqueta de sección "<h1>" para el título.
 varias etiquetas de párrafo <p>, una para la introducción y una para cada cita.
 
 Clases
