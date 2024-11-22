@@ -15,6 +15,7 @@ Las imágenes cuya descripción alternativa sea “segunda” tendrán un borde 
 Los encabezados h3 que están justo antes de un párrafo tendrán un color de fondo rosa.
 Los encabezados h3 que están justo después de un párrafo tendrán un color de fondo azul.
 Los estilos deberán de definirse en un fichero .css
+
 Ejercicio 8
 Realiza la web que se muestra a continuación teniendo en cuenta las siguientes restricciones CSS:
 body:
