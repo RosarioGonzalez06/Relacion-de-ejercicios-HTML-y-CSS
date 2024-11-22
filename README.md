@@ -111,7 +111,7 @@ Color: blanco
 Etiquetas
 Al desactivar la hoja de estilo se puede identificar las siguientes etiquetas:
 una etiqueta de sección &lt;h1&gt; para el título.
-varias etiquetas de párrafo <p>, una para la introducción y una para cada cita.
+varias etiquetas de párrafo &lt;p&gt;, una para la introducción y una para cada cita.
 
 Clases
 En total se necesitan cuatro clases de párrafo.
